@@ -1,0 +1,7 @@
+Nombre =        Antoniely Robles  
+Correo =        antonielyrobles@gmail.com
+Matricula =     2010-1736
+
+Realize una pagina responsive de una tienda de celulares Speed Phone
+utilizando bootstrap 4, jquery y la geolocalizacion de google map,
+y para mostrar datos data table .
